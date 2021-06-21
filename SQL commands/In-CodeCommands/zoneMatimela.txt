@@ -1,0 +1,1 @@
+ string query = "SELECT * FROM zone WHERE zone='" + zone + "';";

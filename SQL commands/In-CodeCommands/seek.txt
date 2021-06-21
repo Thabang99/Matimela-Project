@@ -1,0 +1,3 @@
+ string query = "INSERT INTO letimela(type,brand,color,location,zone,additional) VALUES('" + types + "','" + brand + "','" +color + "','" +location + "','"+zone + "','" +additional+ "');";
+            string query1 = "INSERT INTO zone(type,brand,zone) VALUES('" + types + "','" + brand + "','"+zone+ "');";
+            string query2 = "INSERT INTO location(type,brand,zone,location) VALUES('" + types + "','" + brand + "','" + zone + "','" +location+ "');";

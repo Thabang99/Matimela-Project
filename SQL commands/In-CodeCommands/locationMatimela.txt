@@ -1,0 +1,1 @@
+  string query = "SELECT * FROM location WHERE zone='" + zone + "' AND location = '"+location + "';";

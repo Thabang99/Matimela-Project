@@ -1,0 +1,24 @@
+﻿body {
+    height: inherit;
+    width: inherit;
+    background-color: #D8FECA;
+}
+
+.container {
+    width: 1180px;
+    height: 500px;
+    background-color: #af7ac5;
+    margin-top: 75px;
+    margin-left: 40px;
+    border-radius: 25px;
+    border: solid;
+    border-color: mediumturquoise;
+}
+
+.input1 {
+    border-color: mediumturquoise;
+    margin-left: 120px;
+    background-color: mistyrose;
+    width: 350px;
+    height: 45px;
+}

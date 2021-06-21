@@ -1,0 +1,2 @@
+string query = "SELECT username FROM login WHERE username='" + names + "';";
+string query1 = "SELECT password FROM login WHERE username='" + names + "';";

@@ -1,0 +1,75 @@
+﻿body {
+    height: inherit;
+    width: inherit;
+    background-color: #D8FECA;
+}
+
+.container {
+    width: 1180px;
+    height: 500px;
+    background-color: #af7ac5;
+    margin-top: 75px;
+    margin-left: 40px;
+    border-radius: 25px;
+    border: solid;
+    border-color: mediumturquoise;
+}
+
+.topic{
+    font-size:30px;
+    color: wheat;
+    margin-left:340px; 
+ }
+
+.inputs{
+    margin-top:50px;
+    margin-left:40px;
+    padding:10px;
+}
+
+.input1 {
+    border-color:  mediumturquoise;
+    margin-left: 120px;
+    background-color: mistyrose;
+    width: 350px;
+    height: 45px;
+}
+
+.input2 {
+    margin-left:100px;
+    background-color: #abebc6;
+    width: 350px;
+    height: 45px;
+}
+
+.input3 {
+    margin-top:50px;
+    margin-left: 120px;
+    background-color: #abebc6;
+    width: 350px;
+    height: 45px;
+}
+
+.input4 {
+    margin-left: 100px;
+    background-color: #abebc6;
+    width: 350px;
+    height: 45px;
+}
+
+.input5 {
+    margin-top:50px;
+    margin-left: 120px;
+    background-color: #abebc6;
+    width: 350px;
+    height: 45px;
+}
+
+.submit{
+    width:200px;
+    height:45px;
+    background-color: orange;
+    margin-left:785px;
+    margin-top:50px;
+    border-radius:50px;
+}

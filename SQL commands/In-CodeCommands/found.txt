@@ -1,0 +1,1 @@
+ string query = "INSERT INTO foundAnimal(type,brand,color,location,zone,additional) VALUES('" + types + "','" + brands + "','" + colors + "','" + locations + "','" + zone + "','" + additional + "');";

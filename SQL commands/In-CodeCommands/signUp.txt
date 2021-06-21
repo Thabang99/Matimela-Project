@@ -1,0 +1,2 @@
+string query = "INSERT INTO login(username,password) VALUES('" + fullnames + "','" + password + "');";
+string query2 = "INSERT INTO farmer(names,id,location,zone,brand) VALUES('" + fullnames + "','" +id+ "','" + location + "','" + zone + "','" + letswao + "');";
